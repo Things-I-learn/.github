@@ -7,5 +7,5 @@ In my personal account, I prefer to host projects that are either contributable 
 
  
 ![A map of computer science basics](https://i.redd.it/13v6seyveh661.png)
-
+---------------------------------------------------------------------------------------------------
 Who is the man in the photo? It's [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming)
